@@ -1,0 +1,12 @@
+# supported picture formats
+*.png
+*.jpeg
+*.bmp
+*.svg
+*.pdf
+
+# supported video formats
+*.mkv
+*.mp4
+*.webm
+*.gif
